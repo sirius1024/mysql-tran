@@ -1,6 +1,6 @@
 {
   "name": "mysql-tran",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "easier to use mysql transaction. based on mysql.js",
   "main": "index.js",
   "scripts": {
