@@ -1,0 +1,30 @@
+{
+  "name": "mysql-tran",
+  "version": "1.0.0",
+  "description": "easier to use mysql transaction. based on mysql.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "mysql",
+    "transaction",
+    "node.js",
+    "express",
+    "koa",
+    "promise"
+  ],
+  "author": "Sirius Guo <cealer@foxmail.com> (https://github.com/sirius1024)",
+  "license": "MIT",
+  "repository": "sirius1024/mysql-tran",
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {
+    "async": "^2.4.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
