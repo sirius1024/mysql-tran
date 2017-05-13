@@ -6,7 +6,8 @@ easier to execute transaction of node.js mysql.
 ```sh
 $ npm install mysql-tran --save
 ```
-mysql-tran based on [mysqljs/mysql][].
+mysql-tran based on [mysqljs/mysql][]
+
 [mysqljs/mysql]: https://github.com/mysqljs/mysql
 
 ## Introduction
