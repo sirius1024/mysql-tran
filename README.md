@@ -12,7 +12,7 @@ mysql-tran based on [mysqljs/mysql][]
 
 ## Introduction
 
-This is a simple plugin for MySQL to make transactions to easier to use, and is 100% MIT licensed.
+This is a simple plugin for MySQL to make transactions easier to use, and is 100% MIT licensed.
 
 Here is an example on how to use it:
 ```js
